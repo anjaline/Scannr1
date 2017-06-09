@@ -29,7 +29,7 @@ public class MainActivityScan extends AppCompatActivity {
     Button btn_scan;
     ImageView image;
     String textQR;
-
+// i have added new test file to the scanner1
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
